@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aldobagus725
+- 👀 I’m interested in Laravel, CI, and now Everything with JavaScript
+- 🌱 I’m currently learning CodeIgniter, Laravel, and Javascript, and soon NodeJS
+- 📫 How to reach me --> aldobagus@hotmail.co.id
